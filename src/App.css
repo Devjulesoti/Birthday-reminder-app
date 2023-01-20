@@ -1,5 +1,5 @@
 .App {
-  /* text-align: center; */
+  text-align: center;
 }
 
 .container{
@@ -10,12 +10,13 @@
 }
 
 .container button{
-  margin: 0 auto;
+  text-align: center;
   background-color: palevioletred;
-  width: 100%;
+  width: 60%;
+  max-width: 500px;
   color: white;
   border: none;
   padding: 8px;
-  /* text-align: center; */
+  margin-left: 50px;
 
 }

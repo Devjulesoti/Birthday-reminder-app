@@ -1,17 +1,15 @@
 .person{
     display: flex;
+    margin-top: 10px;
+    box-shadow: 0px 1px 10px grey;
 }
-
-
-
-
 .person img{
     width: 50px;
     border-radius: 50%;
-
-   
 }
 .person h5{
     display: inline;
+}
+.last{
     margin-left: 5px;
 }
