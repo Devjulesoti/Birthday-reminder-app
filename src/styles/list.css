@@ -1,0 +1,17 @@
+.person{
+    display: flex;
+}
+
+
+
+
+.person img{
+    width: 50px;
+    border-radius: 50%;
+
+   
+}
+.person h5{
+    display: inline;
+    margin-left: 5px;
+}
